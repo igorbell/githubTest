@@ -1,3 +1,4 @@
 githubTest01 file
 1. change #1
-2. conflict - branch main
+2.1 conflict line - branch main
+2.2 conflict line - branch 1.1
