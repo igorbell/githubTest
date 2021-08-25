@@ -1,3 +1,4 @@
 githubTest02 file
 1. branch1 - change1 
 2. branch1.1 - change1
+3. edited under ibelokopytov/githubTest
